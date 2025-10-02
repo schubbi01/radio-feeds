@@ -8,7 +8,7 @@
     <!-- Beispiel: Triple J -->
     <item>
       <title>Triple J – Live</title>
-      <enclosure url="http://abc.streamguys1.com/live/triplejnsw/icecast.audio" type="audio/aac" length="0"/>
+      <enclosure url="http://abc.streamguys1.com/live/triplejnsw/icecast.audio" type="audio/aacp" length="0"/>
     </item>
 
     <!-- Platz für weitere Sender -->
