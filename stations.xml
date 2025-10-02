@@ -15,7 +15,7 @@
       <enclosure
           length="0"
           type="audio/mpeg"
-          url="http://abc.streamguys1.com/live/triplejnsw/icecast.audio"/>
+          url="https://wpln.streamguys1.com/wplnfm.aac"/>
     </item>
 
   </channel>
