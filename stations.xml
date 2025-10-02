@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Meine Radiosender</title>
+    <description>Live-Radio als Podcast-Feed</description>
+    <language>en-us</language>
+
+    <!-- Beispiel: Triple J -->
+    <item>
+      <title>Triple J – Live</title>
+      <enclosure url="http://abc.streamguys1.com/live/triplejnsw/icecast.audio" type="audio/aac" length="0"/>
+    </item>
+
+    <!-- Platz für weitere Sender -->
+    <!--
+    <item>
+      <title>Dance Wave Retro!</title>
+      <enclosure url="http://stream.dancewave.online:8080/retrodance.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    -->
+  </channel>
+</rss>
