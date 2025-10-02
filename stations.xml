@@ -15,7 +15,7 @@
       <enclosure
           length="0"
           type="audio/mpeg"
-          url="https://wpln.streamguys1.com/wplnfm.aac"/>
+          url="http://stream.dancewave.online:8080/retrodance.mp3"/>
     </item>
 
   </channel>
