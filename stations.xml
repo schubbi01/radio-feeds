@@ -3,15 +3,22 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:media="http://search.yahoo.com/mrss/"
      version="2.0">
+
   <channel>
     <title>Meine Radiosender</title>
-    <description>Persönliche Radio-Sammlung</description>
+    <description>Radio-Streams als Podcast-Feed</description>
     <language>en-us</language>
 
-    <!-- Triple J -->
+    <!-- Triple J Live -->
     <item>
       <title>Triple J – Live</title>
-      <enclosure type="audio/aac" url="https://abc.streamguys1.com/live/triplejnsw/icecast.audio"/>
+      <description>Stream von Triple J (Australien)</description>
+      <enclosure
+        url="http://abc.streamguys1.com/live/triplejnsw/icecast.audio"
+        type="audio/aac"
+        length="0"/>
+      <guid isPermaLink="false">triplej-live</guid>
+      <pubDate>Thu, 02 Oct 2025 18:00:00 +0000</pubDate>
     </item>
 
   </channel>
