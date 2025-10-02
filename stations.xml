@@ -15,7 +15,7 @@
       <description>Stream von Triple J (Australien)</description>
       <enclosure
         url="http://abc.streamguys1.com/live/triplejnsw/icecast.audio"
-        type="audio/aac"
+        type="audio/mpeg"
         length="0"/>
       <guid isPermaLink="false">triplej-live</guid>
       <pubDate>Thu, 02 Oct 2025 18:00:00 +0000</pubDate>
