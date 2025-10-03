@@ -14,7 +14,7 @@
       <title>NTS 1 Radio</title>
       <enclosure
           length="0"
-          type="audio/mpeg"
+          type="audio/acc"
           url="http://stream-relay-geo.ntslive.net/stream"/>
     </item>
 
@@ -23,7 +23,7 @@
       <title>NTS 2 Radio</title>
       <enclosure
           length="0"
-          type="audio/mpeg"
+          type="audio/acc"
           url="http://stream-relay-geo.ntslive.net/stream2"/>
     </item>
 
