@@ -9,25 +9,21 @@
     <description>Radio-Streams</description>
     <language>en-us</language>
 
-    <!-- NTS 1 Radio -->
+     <!-- NTS 1 -->
     <item>
-      <title>NTS 1 Radio</title>
-      <enclosure
-          length="0"
-          type="audio/acc"
-          url="http://stream-relay-geo.ntslive.net/stream"/>
+      <title>NTS 1 – Live</title>
+      <enclosure url="https://stream-relay-geo.ntslive.net/stream" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">nts-1-live</guid>
+      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
     </item>
 
-           <!-- NTS 2 Radio -->
+    <!-- NTS 2 -->
     <item>
-      <title>NTS 2 Radio</title>
-      <enclosure
-          length="0"
-          type="audio/acc"
-          url="http://stream-relay-geo.ntslive.net/stream2"/>
+      <title>NTS 2 – Live</title>
+      <enclosure url="https://stream-relay-geo.ntslive.net/stream2" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">nts-2-live</guid>
+      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
     </item>
-
-
        
   </channel>
 </rss>
