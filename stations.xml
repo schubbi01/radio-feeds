@@ -6,17 +6,28 @@
 
   <channel>
     <title>Meine Radiosender</title>
-    <description>Radio-Streams als Podcast-Feed</description>
+    <description>Radio-Streams</description>
     <language>en-us</language>
 
-    <!-- Triple J Live -->
+    <!-- NTS 1 Radio -->
     <item>
-      <title>Triple J – Live</title>
+      <title>NTS 1 Radio</title>
       <enclosure
           length="0"
           type="audio/mpeg"
-          url="http://stream.dancewave.online:8080/retrodance.mp3"/>
+          url="http://stream-relay-geo.ntslive.net/stream"/>
     </item>
 
+           <!-- NTS 2 Radio -->
+    <item>
+      <title>NTS 2 Radio</title>
+      <enclosure
+          length="0"
+          type="audio/mpeg"
+          url="http://stream-relay-geo.ntslive.net/stream2"/>
+    </item>
+
+
+       
   </channel>
 </rss>
