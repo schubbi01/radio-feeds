@@ -28,10 +28,19 @@
 <!-- Tripple J -->
 <item>
   <title>Triple J – Live</title>
-  <enclosure url="http://live-radio01.mediahubaustralia.com/2TJW/aac/" type="audio/mepg" length="0"/>
+  <enclosure url="https://live-radio01.mediahubaustralia.com/2TJW/aac/" type="audio/mepg" length="0"/>
   <guid isPermaLink="false">triplej-live</guid>
   <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
 </item>
 
+       <item>
+  <title>Triple Jss – Live</title>
+  <enclosure url="http://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mepg" length="0"/>
+  <guid isPermaLink="false">triplejss-live</guid>
+  <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
+</item>
+
+
+       
   </channel>
 </rss>
