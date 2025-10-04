@@ -24,6 +24,17 @@
       <guid isPermaLink="false">nts-2-live</guid>
       <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
     </item>
-       
+
+     <item>
+  <title>Triple J – Live</title>
+  <description>Australien: Triple J JJJ</description>
+  <enclosure
+    url="https://abc.streamguys1.com/live/triplejnsw/icecast.audio"
+    type="audio/aacp"
+    length="0"/>
+  <guid isPermaLink="false">triplej-live</guid>
+  <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
+</item>
+
   </channel>
 </rss>
