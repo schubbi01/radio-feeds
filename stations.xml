@@ -59,14 +59,6 @@
   <guid isPermaLink="true">https://www.abc.net.au/triplej/live/unearthed</guid>
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
-
-    <!-- BBC World Service -->
-    <item>
-      <title>BBC World Service – Live</title>
-      <enclosure url="http://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg" length="0"/>
-      <guid isPermaLink="false">bbc-world-service-live</guid>
-      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
        
 <item>
   <title>Noods Radio – Live</title>
@@ -77,5 +69,13 @@
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
 
+         <!-- BBC World Service -->
+    <item>
+      <title>BBC World Service – Live</title>
+      <enclosure url="http://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg" length="0"/>
+      <guid isPermaLink="false">bbc-world-service-live</guid>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+       
   </channel>
 </rss>
