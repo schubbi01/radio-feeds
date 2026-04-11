@@ -8,7 +8,7 @@
     <title>Radiosender</title>
     <description>Radio-Streams</description>
     <language>de-de</language>
-    <copyright> </copyright>
+    <copyright>On Air</copyright>
 
     <!-- NTS 1 -->
     <item>
@@ -44,12 +44,19 @@
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
 
-       <item>
+      <item>
+  <title>triple j Hottest – Live</title>
+  <link>https://www.abc.net.au/triplej/live/triplejhottest</link>
+  <description>ABC triple j Hottest live player</description>
+  <guid isPermaLink="true">https://www.abc.net.au/triplej/live/triplejhottest</guid>
+  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+</item>
+
+<item>
   <title>triple j Unearthed – Live</title>
   <link>https://www.abc.net.au/triplej/live/unearthed</link>
-  <description>ABC triple j Unearthed live stream</description>
-  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
-  <guid isPermaLink="false">triplej-unearthed-live</guid>
+  <description>ABC triple j Unearthed live player</description>
+  <guid isPermaLink="true">https://www.abc.net.au/triplej/live/unearthed</guid>
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
 
@@ -62,6 +69,5 @@
     </item>
 
 
-       
   </channel>
 </rss>
