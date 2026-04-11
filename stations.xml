@@ -67,7 +67,15 @@
       <guid isPermaLink="false">bbc-world-service-live</guid>
       <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
-
+       
+<item>
+  <title>Noods Radio – Live</title>
+  <link>https://noodsradio.com/</link>
+  <description>Noods Radio live stream</description>
+  <enclosure url="https://noods-radio.radiocult.fm/stream" type="audio/mpeg" length="0"/>
+  <guid isPermaLink="false">noods-radio-live</guid>
+  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+</item>
 
   </channel>
 </rss>
