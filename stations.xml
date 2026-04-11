@@ -40,28 +40,28 @@
     </item>
 
     <!-- triple j Hottest -->
-    <item>
-      <title>triple j Hottest – Live</title>
-      <enclosure url="https://hot100.mediahubaustralia.com/TJHW/aac/" type="audio/aac" length="0"/>
-      <guid isPermaLink="false">triplej-hottest-live</guid>
-      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
+<item>
+  <title>triple j Hottest – Live</title>
+  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2100183/triplejhottest/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
+  <guid isPermaLink="false">triplej-hottest-live</guid>
+  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+</item>
 
-    <!-- triple j Unearthed -->
-    <item>
-      <title>triple j Unearthed – Live</title>
-      <enclosure url="https://streaming.abc-cdn.net.au/audio/hls/triplejunearthed.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
-      <guid isPermaLink="false">triplej-unearthed-live</guid>
-      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
+<!-- triple j Unearthed -->
+<item>
+  <title>triple j Unearthed – Live</title>
+  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
+  <guid isPermaLink="false">triplej-unearthed-live</guid>
+  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+</item>
 
-    <!-- Double J -->
-    <item>
-      <title>Double J – Live</title>
-      <enclosure url="http://live-radio01.mediahubaustralia.com/DJDW/aac/" type="audio/aac" length="0"/>
-      <guid isPermaLink="false">doublej-live</guid>
-      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
+<!-- Double J -->
+<item>
+  <title>Double J – Live</title>
+  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
+  <guid isPermaLink="false">doublej-live</guid>
+  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+</item>
 
     <!-- BBC World Service -->
     <item>
