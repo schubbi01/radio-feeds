@@ -31,13 +31,14 @@
       <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
-    <!-- triple j -->
     <item>
-      <title>triple j – Live</title>
-      <enclosure url="https://live-radio01.mediahubaustralia.com/2TJW/aac/" type="audio/aac" length="0"/>
-      <guid isPermaLink="false">triplej-live</guid>
-      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
+  <title>triple j – Live</title>
+  <link>https://www.abc.net.au/triplej/live/triplej</link>
+  <description>ABC triple j live stream</description>
+  <enclosure url="http://live-radio01.mediahubaustralia.com/2TJW/mp3/" type="audio/mpeg" length="0"/>
+  <guid isPermaLink="false">triplej-live</guid>
+  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+</item>
 
     <!-- triple j Hottest -->
 <item>
