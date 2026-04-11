@@ -7,14 +7,20 @@
   <channel>
     <title>Radiosender</title>
     <description>Radio-Streams</description>
-    <language>en-us</language>
+    <language>de-de</language>
+<author>Mix-Tape2</author>
+
+    <!-- gegen "Unknown" -->
+    <itunes:author>Mix-Tape</itunes:author>
+    <itunes:summary>Radio-Streams</itunes:summary>
+    <copyright>© 2026 DEIN NAME</copyright>
 
     <!-- NTS 1 -->
     <item>
       <title>NTS 1 – Live</title>
       <enclosure url="https://stream-relay-geo.ntslive.net/stream" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">nts-1-live</guid>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
     <!-- NTS 2 -->
@@ -22,15 +28,39 @@
       <title>NTS 2 – Live</title>
       <enclosure url="https://stream-relay-geo.ntslive.net/stream2" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">nts-2-live</guid>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
-    <!-- Triple J -->
+    <!-- triple j -->
     <item>
-      <title>Triple J – Live</title>
-      <enclosure url="https://live-radio01.mediahubaustralia.com/2TJW/aac/" type="audio/mpeg" length="0"/>
+      <title>triple j – Live</title>
+      <enclosure url="https://live-radio01.mediahubaustralia.com/2TJW/aac/" type="audio/aac" length="0"/>
       <guid isPermaLink="false">triplej-live</guid>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- triple j Hottest -->
+    <item>
+      <title>triple j Hottest – Live</title>
+      <enclosure url="https://hot100.mediahubaustralia.com/TJHW/aac/" type="audio/aac" length="0"/>
+      <guid isPermaLink="false">triplej-hottest-live</guid>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- triple j Unearthed -->
+    <item>
+      <title>triple j Unearthed – Live</title>
+      <enclosure url="https://streaming.abc-cdn.net.au/audio/hls/triplejunearthed.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
+      <guid isPermaLink="false">triplej-unearthed-live</guid>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+
+    <!-- Double J -->
+    <item>
+      <title>Double J – Live</title>
+      <enclosure url="http://live-radio01.mediahubaustralia.com/DJDW/aac/" type="audio/aac" length="0"/>
+      <guid isPermaLink="false">doublej-live</guid>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
     <!-- BBC World Service -->
@@ -38,73 +68,17 @@
       <title>BBC World Service – Live</title>
       <enclosure url="http://stream.live.vc.bbcmedia.co.uk/bbc_world_service" type="audio/mpeg" length="0"/>
       <guid isPermaLink="false">bbc-world-service-live</guid>
-      <pubDate>Fri, 03 Oct 2025 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
-    <!-- Millie McKee on NTS -->
-    <item>
-      <title>Millie McKee – Show Page</title>
-      <link>https://www.nts.live/shows/millie-mckee</link>
-      <description>Monthly NTS show by Millie McKee</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
+ <item>
+  <title>Millie McKee – My Analog Journal (SoundCloud)</title>
+  <link>https://soundcloud.com/dubbase/my-analog-journal-millie-mckee</link>
+  <description>SoundCloud link</description>
+  <guid isPermaLink="true">https://soundcloud.com/dubbase/my-analog-journal-millie-mckee</guid>
+  <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+</item>
 
-    <item>
-      <title>Millie McKee – 24 Mar 2026</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-24th-march-2026</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-24th-march-2026</guid>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Millie McKee – 27 Jan 2026</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-27th-january-2026</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-27th-january-2026</guid>
-      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Millie McKee – 28 Oct 2025</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-28th-october-2025</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-28th-october-2025</guid>
-      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Millie McKee w/ Kyle Toole – 30 Sep 2025</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-30th-september-2025</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-30th-september-2025</guid>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Millie McKee – 27 Apr 2025</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-27th-april-2025</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-27th-april-2025</guid>
-      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Millie McKee – 30 Mar 2025</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-30th-march-2025</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-30th-march-2025</guid>
-      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-    </item>
-
-    <item>
-      <title>Millie McKee – 09 Feb 2025</title>
-      <link>https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-9th-february-2025</link>
-      <description>Millie McKee on NTS</description>
-      <guid isPermaLink="true">https://www.nts.live/shows/millie-mckee/episodes/millie-mckee-9th-february-2025</guid>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-
+       
   </channel>
 </rss>
