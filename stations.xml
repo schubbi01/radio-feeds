@@ -8,12 +8,7 @@
     <title>Radiosender</title>
     <description>Radio-Streams</description>
     <language>de-de</language>
-    <copyright>Mix-Tape</copyright>
-
-    <!-- gegen "Unknown" -->
-    <itunes:author>Mix-Tape</itunes:author>
-    <itunes:summary>Radio-Streams</itunes:summary>
-    <copyright>© 2026 DEIN NAME</copyright>
+    <copyright> </copyright>
 
     <!-- NTS 1 -->
     <item>
@@ -40,29 +35,16 @@
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
 
-    <!-- triple j Hottest -->
-<item>
-  <title>triple j Hottest – Live</title>
-  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2100183/triplejhottest/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
-  <guid isPermaLink="false">triplej-hottest-live</guid>
-  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-</item>
-
-<!-- triple j Unearthed -->
-<item>
-  <title>triple j Unearthed – Live</title>
-  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2038305/triplejunearthed/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
-  <guid isPermaLink="false">triplej-unearthed-live</guid>
-  <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
-</item>
-
-<!-- Double J -->
-<item>
+    <item>
   <title>Double J – Live</title>
-  <enclosure url="https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/index.m3u8" type="application/vnd.apple.mpegurl" length="0"/>
+  <link>https://www.abc.net.au/listen/doublej</link>
+  <description>ABC Double J live stream</description>
+  <enclosure url="http://live-radio01.mediahubaustralia.com/DJDW/mp3/" type="audio/mpeg" length="0"/>
   <guid isPermaLink="false">doublej-live</guid>
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
+
+       
 
     <!-- BBC World Service -->
     <item>
@@ -72,13 +54,6 @@
       <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
- <item>
-  <title>Millie McKee – My Analog Journal (SoundCloud)</title>
-  <link>https://soundcloud.com/dubbase/my-analog-journal-millie-mckee</link>
-  <description>SoundCloud link</description>
-  <guid isPermaLink="true">https://soundcloud.com/dubbase/my-analog-journal-millie-mckee</guid>
-  <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-</item>
 
        
   </channel>
