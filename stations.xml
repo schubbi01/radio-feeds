@@ -69,6 +69,15 @@
   <pubDate>Sat, 11 Apr 2026 12:00:00 +0000</pubDate>
 </item>
 
+       <item>
+  <title>KEXP – Live</title>
+  <link>https://www.kexp.org/listen/</link>
+  <description>KEXP live stream</description>
+  <enclosure url="https://kexp.streamguys1.com/kexp160.aac" type="audio/aac" length="0"/>
+  <guid isPermaLink="false">kexp-live</guid>
+  <pubDate>Wed, 16 Apr 2026 12:00:00 +0000</pubDate>
+</item>
+       
          <!-- BBC World Service -->
     <item>
       <title>BBC World Service – Live</title>
